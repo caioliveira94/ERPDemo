@@ -1,3 +1,3 @@
 # ERPDemo
 
-Documentação disponível em /swagger
+Documentação disponível na url da aplicação + "/swagger"
