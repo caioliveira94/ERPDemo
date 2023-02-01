@@ -3,3 +3,14 @@
 ################################################################################
 
 /ERPDemo.API/bin/Debug/net5.0
+/ERPDemo.API/obj
+/ERPDemo.ApplicationService/bin/Debug/net5.0
+/ERPDemo.ApplicationService/obj
+/ERPDemo.Data/bin/Debug/net5.0
+/ERPDemo.Data/obj
+/ERPDemo.Domain/bin/Debug/net5.0
+/ERPDemo.Domain/obj
+/ERPDemo.Infrastructure/bin/Debug/net5.0
+/ERPDemo.Infrastructure/obj
+/ERPDemo.Tests/bin/Debug/net5.0
+/ERPDemo.Tests/obj
